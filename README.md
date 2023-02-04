@@ -5,7 +5,7 @@ Things Guide Resources is a collection of resources on Internet of Things (IoT) 
 - [Wiki Home](./../../wiki/)
 
 ## IoT
-- [IoT Resources Wiki](./../../wiki/IoT)
+- [IoT Resources Wiki Page](./../../wiki/IoT)
 
 ## Embedded ML
-- [Embedded ML Resources Wiki](./../../wiki/EmbeddedML)
+- [Embedded ML Resources Wiki Page](./../../wiki/EmbeddedML)
