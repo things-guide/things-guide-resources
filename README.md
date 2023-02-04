@@ -10,7 +10,7 @@ The Wiki is a curated collection of links and categories, we value quality over 
 - [Wiki Home](./../../wiki/)
 
 ## IoT
-IoT connects physical things, devices with sensors and actuators, to the Internet.
+IoT connects physical things, small devices with sensors and actuators, to the Internet.
 
 - [IoT Resources Wiki Page](./../../wiki/IoT)
 
