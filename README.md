@@ -5,7 +5,7 @@
 [Things.Guide](https://things.guide/) is maintained by a [small group](https://github.com/orgs/things-guide/people) of applied science teachers trying to [share](https://creativecommons.org/share-your-work/) open course materials.
 
 ## Wiki
-The Wiki is a curated collection of links things we wrote, used for teaching or find interesting.
+The Wiki is a curated collection of links to things we wrote, used for teaching or find interesting.
 
 - [Wiki Home](./../../wiki/)
 
